@@ -42,6 +42,7 @@ figcaption {
 
 #details {
   display: block;
+  margin-bottom: 30px;
 }
 
 #details div {
